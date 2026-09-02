@@ -426,3 +426,4 @@ FodyWeavers.xsd
 *.sln.iml
 /lib/SFML-2.6.2
 /lib/SFML
+/out/build/x64-Debug

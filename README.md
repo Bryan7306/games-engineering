@@ -1,1 +1,1 @@
-# games-engineering lab 1
+# games-engineering
